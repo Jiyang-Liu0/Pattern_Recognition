@@ -1,0 +1,14 @@
+https://oversea.cnki.net/kreader2/review?platform=OVERSEA&product=CDFD&filename=2007067508.nh&tablename=cdfd9908&type=DISSERTATION&scope=trial&cflag=overlay&dflag=&pages=1-14&language=en&invoice=m9eAW0e1eWqpUKdeZCLcBfcQHltosFHjB988zRX9KDftJWBkaSP31%2FUW%2BO%2FoQg2YQ%2FxbfKUjseCDA64QPxYZyhIASZkQE%2Bt%2Bi36qO18oj0jCozZNlm8KLhA8HWG5QOQBiERRcTRPau1m4okO4qEPi6KfR%2BZicc78x%2F9GmyKzr0w%3D&trial=1-14&nonce=8EF96577FAAE4505B825F8155C6BB108
+
+https://libthesis.xidian.edu.cn/docinfo.action?id1=01cd5b734d7fa7980f2dbc5327215570&id2=63J1HXOdgyg%253D
+
+https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2024&filename=1023534589.nh&uniplatform=OVERSEA&v=NwguFOS6saqhza91rZejPPDs0Z3EJa5p3e5K0HWuTuoKhXbJEeiKtx1oNG8mvFHy
+
+https://blog.csdn.net/LIUGXIN/article/details/112132369?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171036937916800225551507%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171036937916800225551507&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-112132369-null-null.142^v99^pc_search_result_base9&utm_term=TWSVM&spm=1018.2226.3001.4187
+
+https://www.sciencedirect.com/science/article/pii/S1110866514000498
+
+Twin Support Vector Machine for Pattern Classification论文及代码复现
+https://download.csdn.net/download/m0_53772622/87328437?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171053936816800184193943%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171053936816800184193943&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-87328437-null-null.142^v99^pc_search_result_base9&utm_term=TWSVM%E8%AE%BA%E6%96%87&spm=1018.2226.3001.4187.2
+
+https://link.springer.com/article/10.1007/s10479-022-04575-w#Sec27
